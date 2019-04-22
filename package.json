@@ -1,0 +1,18 @@
+{
+  "name": "web4-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "dev" : "nodemon index"
+  },
+  "author": "eye",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
